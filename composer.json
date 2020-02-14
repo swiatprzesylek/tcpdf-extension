@@ -1,5 +1,5 @@
 {
-    "name": "naitsirch/tcpdf-extension",
+    "name": "swiatprzesylek/tcpdf-extension",
     "type": "library",
     "description": "This library extends the TCPDF library for example with a smart API for creating tables.",
     "keywords": ["php", "pdf", "tcpdf", "generator"],
